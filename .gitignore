@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+.node-version
+.idea/
+node_modules/
+coverage/
+tsconfig.tsbuildinfo
+dist/
+.rollup.cache/
